@@ -1,0 +1,6 @@
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.Entity\obj\Debug\PetPals.Entity.csproj.AssemblyReference.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.Entity\obj\Debug\PetPals.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.Entity\bin\Debug\PetPals.Entity.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.Entity\bin\Debug\PetPals.Entity.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.Entity\obj\Debug\PetPals.Entity.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.Entity\obj\Debug\PetPals.Entity.pdb
