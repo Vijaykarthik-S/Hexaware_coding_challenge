@@ -1,0 +1,9 @@
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\bin\Debug\PetPals.BusinessLayer.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\bin\Debug\PetPals.BusinessLayer.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\bin\Debug\PetPals.Entity.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\bin\Debug\PetPals.Entity.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\obj\Debug\PetPals..E48E12B0.Up2Date
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.pdb
